@@ -2,8 +2,13 @@
 
 :zap: **Actividad Reciente**
 
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:last_update-->
+\<!--START\_SECTION:activity-->
+
+\<!--END\_SECTION:activity-->
+
+\<!--RECENT\_ACTIVITY:start-->
+
+\<!--RECENT\_ACTIVITY:last\_update-->
 
 :computer: **Consultor BO en Habi**
 
