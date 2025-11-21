@@ -1,13 +1,10 @@
 ## ¡Hola! 👋 Soy Juan Pablo 
 
 :zap: **Actividad Reciente**
-<!--START\_SECTION:activity-->
 
-<!--RECENT\_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
-<!--RECENT\_ACTIVITY:last\_update-->
-
-<!--START\_SECTION:activity-->
 
 :computer: **Consultor BO en Habi**
 
