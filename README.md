@@ -1,5 +1,10 @@
 ## ¡Hola! 👋 Soy Juan Pablo 
 
+## :zap: Actividad Reciente
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
+
 :computer: **Consultor BO en Habi**
 
 :school: **Economía - Universidad de los Andes**
