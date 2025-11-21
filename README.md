@@ -1,6 +1,6 @@
 ## ¡Hola! 👋 Soy Juan Pablo 
 
-** :zap: Actividad Reciente **
+:zap: **Actividad Reciente**
 
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:last_update-->
