@@ -1,0 +1,6 @@
+# .github/recent-activity.config.yml
+user: juangrimaldos-png
+exclude:
+  - forks
+  - private
+max_events: 5
